@@ -1,5 +1,15 @@
-# .github
+# The Strategy Unit
 
-This repository contains the custom organisation readme, which is displayed on [github.com/the-strategy-unit](https://github.com/the-strategy-unit).
+We are a specialist NHS team producing high-quality, multi-disciplinary analytical work. This repository hosts the code underpinning our projects.
 
-Please refer to the [GitHub documentation](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) for further information.
+## Why is our code open?
+
+We are public servants, providing public services.
+
+The Strategy Unit is therefore committed to maximising public value for the work we do. One significant route to this is disseminating our outputs.
+
+This might mean models, underpinning code, presentations, reports: anything that usefully communicates the approaches we've used and the results we've arrived at.
+
+Others can then learn from, build upon, adapt and reuse what we have done - in a way that would not be possible if outputs were not made public.
+
+So, our default approach is to share our work, through our website, our GitHub, through social media, and other channels.
