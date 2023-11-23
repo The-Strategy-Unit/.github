@@ -13,3 +13,9 @@ This might mean models, underpinning code, presentations, reports: anything that
 Others can then learn from, build upon, adapt and reuse what we have done - in a way that would not be possible if outputs were not made public.
 
 So, our default approach is to share our work, through our website, our GitHub, through social media, and other channels.
+
+Find out more about our work via:
+
+-   [The Strategy Unit website](https://strategyunitwm.nhs.uk/)
+
+-   [The Strategy Unit Twitter account](https://twitter.com/strategy_unit)
