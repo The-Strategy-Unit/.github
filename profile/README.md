@@ -18,4 +18,4 @@ Find out more about our work via:
 
 -   [The Strategy Unit website](https://strategyunitwm.nhs.uk/)
 
--   [The Strategy Unit Twitter account](https://twitter.com/strategy_unit)
+-   [The Strategy Unit Bluesky account](https://bsky.app/profile/strategyunit.bsky.social)
